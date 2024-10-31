@@ -17,6 +17,6 @@ First public beta may be avaliable later this year.
 
 Please refer to [https://blog.onespirit.fyi/index.php/resume/](https://blog.onespirit.fyi/index.php/resume/#:~:text=Server%2DMonitor%2DApp-,Sophia%EF%BC%88%E8%AF%B4%E6%96%90%EF%BC%89,-%E5%85%A8%E6%A0%88%2BiOS)
 
-|Home|Talk|Revise|
-|-|-|-|
-|![](./README_SRC/home.jpeg)|![](./README_SRC/talk.jpeg)|![](./README_SRC/revise.jpeg)|
+| Home | Talk | Revise |
+|------|------|--------|
+| <img src="./README_SRC/home.jpeg" height="350"/> | <img src="./README_SRC/talk.jpeg" height="350"/> | <img src="./README_SRC/revise.jpeg" height="350"/> |
